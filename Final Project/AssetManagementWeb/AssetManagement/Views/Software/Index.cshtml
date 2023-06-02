@@ -1,0 +1,99 @@
+﻿@model IEnumerable<AssetManagement.Models.SoftwareModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<style>
+    .button {
+        margin-left: 5px;
+        border-radius: 5px;
+    }
+
+        .button a {
+            text-decoration: none;
+            color: white;
+        }
+
+    .editButton {
+        background-color: blue;
+    }
+
+        .editButton:hover {
+            background-color: deepskyblue;
+        }
+
+    .deleteButton {
+        background-color: red;
+    }
+
+        .deleteButton:hover {
+            background-color: maroon;
+        }
+</style>
+<table class="table">
+    <thead>
+        <tr>
+           @* <th>
+                @Html.DisplayNameFor(model => model.SoftwareId)
+            </th>*@
+            <th>
+                Name
+            </th>
+            <th>
+               Type
+            </th>
+            <th>
+               Purchase Date
+            </th>
+            <th>
+              Expiry Date
+            </th>
+            <th>
+              Licence Number
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+         @*  <td>
+                @Html.DisplayFor(modelItem => item.SoftwareId)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.SoftwareName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TypeOfSoftware)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfPurchase)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfExpiry)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LicenceNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                    <button class="editButton button">
+                    @Html.ActionLink("Edit", "Edit", new {  id=item.SoftwareId }) 
+                    </button>
+              
+                    <button class="deleteButton button">
+
+                    @Html.ActionLink("Delete", "Delete", new {  id=item.SoftwareId  })
+                    </button>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,40 @@
+2023-03-13 17:29:38.1106 INFO Book GetAll is logged
+2023-03-13 17:29:55.2632 INFO Book search is logged
+2023-03-13 17:29:55.6762 INFO Book search id is found
+2023-03-13 17:30:01.3390 INFO Book Update is logged
+2023-03-13 17:30:01.4653 INFO Book detail is updated
+2023-03-13 17:30:01.4807 INFO Book GetAll is logged
+2023-03-13 17:30:04.1819 INFO Book delete is logged
+2023-03-13 17:30:04.4074 INFO Book is deleted
+2023-03-13 17:30:04.4074 INFO Book GetAll is logged
+2023-03-13 17:30:14.3714 INFO Book search is logged
+2023-03-13 17:30:14.3761 INFO Book search id is not found
+2023-03-13 17:31:34.6219 INFO Book GetAll is logged
+2023-03-13 17:32:57.1354 INFO Book GetAll is logged
+2023-03-13 17:33:14.6563 INFO Book search is logged
+2023-03-13 17:33:14.6630 INFO Book search id is found
+2023-03-13 17:33:20.6080 INFO Book Update is logged
+2023-03-13 17:33:20.6134 INFO Book detail is updated
+2023-03-13 17:33:20.6260 INFO Book GetAll is logged
+2023-03-13 17:34:39.0038 INFO Book GetAll is logged
+2023-03-13 18:04:34.0339 INFO Book GetAll is logged
+2023-03-13 18:07:25.9964 INFO Book GetAll is logged
+2023-03-13 18:54:57.0628 INFO Book GetAll is logged
+2023-03-13 21:53:28.0580 INFO Book GetAll is logged
+2023-03-13 21:58:56.5556 INFO Book GetAll is logged
+2023-03-13 22:02:34.9456 INFO Book GetAll is logged
+2023-03-13 22:02:51.3790 INFO Book GetAll is logged
+2023-03-13 22:05:28.6688 INFO Book GetAll is logged
+2023-03-13 22:09:02.2178 INFO Book GetAll is logged
+2023-03-13 22:16:58.4567 INFO Book GetAll is logged
+2023-03-13 22:17:12.8817 INFO Book GetAll is logged
+2023-03-13 22:17:15.9899 INFO Book search is logged
+2023-03-13 22:17:17.0193 INFO Book search id is found
+2023-03-13 22:18:10.3156 INFO Book GetAll is logged
+2023-03-13 22:18:45.4783 INFO Book search is logged
+2023-03-13 22:18:46.4466 INFO Book search id is found
+2023-03-13 22:20:12.4818 INFO Book Add is logged
+2023-03-13 22:20:13.1628 INFO Book is Added
+2023-03-13 22:20:13.2015 INFO Book GetAll is logged
+2023-03-13 23:26:42.6101 INFO Book GetAll is logged
+2023-03-13 23:40:56.8729 INFO Book GetAll is logged

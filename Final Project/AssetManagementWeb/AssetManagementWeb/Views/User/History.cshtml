@@ -1,0 +1,56 @@
+﻿@model IEnumerable<AssetManagement.UserDTO>
+
+@{
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+    ViewData["Title"] = "History";
+}
+
+
+
+@using (Html.BeginForm("History", "User", FormMethod.Post))
+{
+    @Html.DropDownList("Filter", new List<SelectListItem> { new SelectListItem { Text = "Books", Value = "1" }, new SelectListItem { Text = "Software", Value = "2" }, new SelectListItem { Text = "Hardware", Value = "3"} }, "Filter")
+    <input type="submit" />
+}
+
+<table class="table">
+    <thead>
+        <tr>
+          
+            <th>
+                @Html.DisplayNameFor(model => model.AssetType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AssetName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.ActionLink("Cancel Request", "CancelRequest", new { item.AssetId , item.UserId }) 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

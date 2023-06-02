@@ -1,0 +1,16 @@
+2023-03-12 09:21:07.1123 INFO BookModel GetAll is logged
+2023-03-12 09:30:08.7254 INFO BookModel GetAll is logged
+2023-03-12 10:10:32.2689 INFO BookModel GetAll is logged
+2023-03-12 10:10:44.6080 INFO BookModel GetAll is logged
+2023-03-12 10:13:19.8605 INFO BookModel GetAll is logged
+2023-03-12 10:15:41.8180 INFO BookModel GetAll is logged
+2023-03-12 10:16:44.3322 INFO BookModel GetAll is logged
+2023-03-12 10:20:26.8140 INFO BookModel GetAll is logged
+2023-03-12 10:20:39.7868 INFO BookModel GetAll is logged
+2023-03-12 10:20:43.6363 INFO BookModel GetAll is logged
+2023-03-12 11:28:20.3451 INFO BookModel GetAll is logged
+2023-03-12 14:41:28.9458 INFO BookModel GetAll is logged
+2023-03-12 14:41:55.8549 INFO BookModel GetAll is logged
+2023-03-12 14:42:08.3924 INFO BookModel GetAll is logged
+2023-03-12 16:11:56.2246 INFO BookModel GetAll is logged
+2023-03-12 21:14:30.5011 INFO Book GetAll is logged

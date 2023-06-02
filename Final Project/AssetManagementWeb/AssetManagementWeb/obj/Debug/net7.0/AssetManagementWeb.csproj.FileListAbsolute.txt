@@ -1,0 +1,1335 @@
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\appsettings.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.staticwebassets.runtime.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.exe
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.deps.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.runtimeconfig.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.pdb
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Humanizer.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityServer4.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityServer4.Storage.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.TeamFoundation.Common.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.AssemblyReference.cache
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.AssemblyInfoInputs.cache
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.AssemblyInfo.cs
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.CoreCompileInputs.cache
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.RazorAssemblyInfo.cache
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.RazorAssemblyInfo.cs
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.AssetManagementWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.AssetManagementWeb.props
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AssetManagementWeb.props
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AssetManagementWeb.props
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\bundle\AssetManagementWeb.styles.css
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\projectbundle\AssetManagementWeb.bundle.scp.css
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.CopyComplete
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\refint\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.pdb
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.genruntimeconfig.cache
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\ref\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\appsettings.json
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.staticwebassets.runtime.json
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.exe
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.deps.json
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.runtimeconfig.json
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.pdb
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Humanizer.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityServer4.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityServer4.Storage.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.TeamFoundation.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.AssemblyReference.cache
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.AssemblyInfoInputs.cache
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.AssemblyInfo.cs
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.CoreCompileInputs.cache
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.RazorAssemblyInfo.cache
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.RazorAssemblyInfo.cs
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.AssetManagementWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.AssetManagementWeb.props
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AssetManagementWeb.props
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AssetManagementWeb.props
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\bundle\AssetManagementWeb.styles.css
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\projectbundle\AssetManagementWeb.bundle.scp.css
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.CopyComplete
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\refint\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.pdb
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.genruntimeconfig.cache
+C:\Users\harshit.k.sevkani\Desktop\Week 8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\ref\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\appsettings.json
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.staticwebassets.runtime.json
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.exe
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.deps.json
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.runtimeconfig.json
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.pdb
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Humanizer.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityServer4.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityServer4.Storage.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.TeamFoundation.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.AssemblyReference.cache
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.AssemblyInfoInputs.cache
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.AssemblyInfo.cs
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.CoreCompileInputs.cache
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.RazorAssemblyInfo.cache
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.RazorAssemblyInfo.cs
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.AssetManagementWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.AssetManagementWeb.props
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AssetManagementWeb.props
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AssetManagementWeb.props
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\bundle\AssetManagementWeb.styles.css
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\projectbundle\AssetManagementWeb.bundle.scp.css
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.CopyComplete
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\refint\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.pdb
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.genruntimeconfig.cache
+C:\Users\harshit.k.sevkani\Desktop\Abcd\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\ref\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\appsettings.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.staticwebassets.runtime.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.exe
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.deps.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.runtimeconfig.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.pdb
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Humanizer.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityModel.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityServer4.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityServer4.Storage.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.TeamFoundation.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Services.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Services.WebApi.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.AssemblyReference.cache
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.AssemblyInfoInputs.cache
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.AssemblyInfo.cs
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.CoreCompileInputs.cache
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.RazorAssemblyInfo.cache
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.RazorAssemblyInfo.cs
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.AssetManagementWeb.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.AssetManagementWeb.props
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AssetManagementWeb.props
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AssetManagementWeb.props
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\bundle\AssetManagementWeb.styles.css
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\projectbundle\AssetManagementWeb.bundle.scp.css
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.CopyComplete
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\refint\AssetManagementWeb.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.pdb
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.genruntimeconfig.cache
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\ref\AssetManagementWeb.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\appsettings.Development.json
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\appsettings.json
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.staticwebassets.runtime.json
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.exe
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.deps.json
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.runtimeconfig.json
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\AssetManagementWeb.pdb
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Humanizer.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityModel.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityServer4.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\IdentityServer4.Storage.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.TeamFoundation.Common.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Services.Common.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Services.WebApi.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Common.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.AssemblyReference.cache
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.AssemblyInfoInputs.cache
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.AssemblyInfo.cs
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.CoreCompileInputs.cache
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.RazorAssemblyInfo.cache
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.RazorAssemblyInfo.cs
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.AssetManagementWeb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.build.AssetManagementWeb.props
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AssetManagementWeb.props
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AssetManagementWeb.props
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.build.json
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\staticwebassets.development.json
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\bundle\AssetManagementWeb.styles.css
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\scopedcss\projectbundle\AssetManagementWeb.bundle.scp.css
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.csproj.CopyComplete
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\refint\AssetManagementWeb.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.pdb
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\AssetManagementWeb.genruntimeconfig.cache
+D:\Asset Management System\Moodle_Week8\AssetManagementWeb\AssetManagementWeb\obj\Debug\net7.0\ref\AssetManagementWeb.dll

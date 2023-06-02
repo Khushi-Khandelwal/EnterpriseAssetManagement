@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLaZhRdo4s8PXYSWLu5IO4yH3U+hTgiUOMOjky1yaZomXGZciLPekMevu+N/BiIVZvxJVTiW9gnVna2AQmm7ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\harshit.k.sevkani\\source\\repos\\AssetManagementApi\\AssetManagementView\\AssetManagementView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\harshit.k.sevkani\\.nuget\\packages\\newtonsoft.json\\6.0.4\\newtonsoft.json.6.0.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Newtonsoft.Json 6.0.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Newtonsoft.Json",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

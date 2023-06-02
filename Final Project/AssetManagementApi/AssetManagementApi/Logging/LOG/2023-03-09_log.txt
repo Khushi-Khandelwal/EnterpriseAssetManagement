@@ -1,0 +1,7 @@
+2023-03-09 15:27:09.5218 INFO BookModel GetAll is logged
+2023-03-09 17:22:32.2059 INFO BookModel is logged
+2023-03-09 17:22:40.2240 INFO BookModel GetAll is logged
+2023-03-09 17:29:54.1565 INFO BookModel GetAll is logged
+2023-03-09 19:15:37.9984 INFO BookModel GetAll is logged
+2023-03-09 19:16:45.2447 INFO BookModel is logged
+2023-03-09 19:16:45.8412 INFO BookModel GetAll is logged

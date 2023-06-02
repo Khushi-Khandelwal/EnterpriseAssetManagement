@@ -1,0 +1,18 @@
+2023-03-28 07:05:55.6273 INFO Book Assign is logged
+2023-03-28 07:05:56.1434 INFO Book Issued
+2023-03-28 07:07:18.7806 INFO Book Assign is logged
+2023-03-28 07:07:18.8106 INFO Book Issued
+2023-03-28 08:55:19.7609 INFO Book Assign is logged
+2023-03-28 08:56:03.1888 INFO Book Assign is logged
+2023-03-28 09:00:32.2074 INFO Book Assign is logged
+2023-03-28 09:00:33.1985 INFO Book Issued
+2023-03-28 09:41:58.4815 INFO Book Assign is logged
+2023-03-28 09:41:59.4073 INFO Book Issued
+2023-03-28 09:43:01.6029 INFO Book Assign is logged
+2023-03-28 09:43:01.8563 INFO Book Issued
+2023-03-28 09:43:37.2349 INFO Book Assign is logged
+2023-03-28 09:43:37.3080 INFO Book Issued
+2023-03-28 11:35:32.9539 INFO Book Assign is logged
+2023-03-28 11:35:33.4268 INFO Book Issued
+2023-03-28 11:35:49.5384 INFO Book Assign is logged
+2023-03-28 11:35:49.5572 INFO Book Issued

@@ -1,0 +1,174 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - AssetManagement</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/AssetManagement.styles.css" asp-append-version="true" />
+    <style>
+        .header {
+            background-color: skyblue;
+        }
+        .dropbtn {
+            background-color: skyblue;
+            color: white;
+            padding: 16px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+        }
+
+        .dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+            .dropdown-content a {
+                color: black;
+                padding: 12px 16px;
+                text-decoration: none;
+                display: block;
+            }
+
+                .dropdown-content a:hover {
+                    background-color: #f1f1f1
+                }
+
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+
+        .dropdown:hover .dropbtn {
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-skyblue border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand bg-skyblue" asp-area="" asp-controller="Home" asp-action="Index">Asset Management</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <button class="dropbtn">Book</button>
+                                <div class="dropdown-content">
+                                   
+                                    <a href="https://localhost:7203/Book/Add">Add </a>
+                                    <a href="https://localhost:7203/Book/Assign">Assign</a>
+                                    <a href="https://localhost:7203/Book/Index">Display</a>
+                                    <a href="https://localhost:7203/Book/Unassign">UnAssign</a>
+@*
+                                    
+                                    <a href="https://localhost:7203/Book/Index">All Books</a>
+                                    <a href="https://localhost:7203/Book/Add">Add Book</a>
+                                    <a href="https://localhost:7203/Book/Assign">Assign</a>
+                                    <a href="https://localhost:7203/Book/Unassign">UnAssign</a>*@
+
+                                </div>
+                            </div>
+                            @*<a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>*@
+                        </li>
+
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <button class="dropbtn">Software</button>
+                                <div class="dropdown-content">
+
+                                   
+                                    <a href="https://localhost:7203/Software/Add">Add</a>
+                                    <a href="https://localhost:7203/Software/Assign">Assign</a>
+                                    <a href="https://localhost:7203/Software/Index">Display</a>
+                                    <a href="https://localhost:7203/Software/Unassign">UnAssign</a>
+                                    
+                                   @* <a href="https://localhost:7203/Software/Index">All Software</a>
+                                    <a href="https://localhost:7203/Software/Add">Add Software</a>
+                                    <a href="https://localhost:7203/Software/Assign">Assign</a>
+                                    <a href="https://localhost:7203/Software/Unassign">UnAssign</a>*@
+
+                                   
+                                </div>
+                            </div>
+                           @* <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>*@
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <button class="dropbtn">Hardware</button>
+                                <div class="dropdown-content">
+                                   
+                                    <a href="https://localhost:7203/Hardware/Add">Add </a>
+                                    <a href="https://localhost:7203/Hardware/Assign">Assign</a>
+                                    <a href="https://localhost:7203/Hardware/Index">Display</a>
+                                    <a href="https://localhost:7203/Hardware/Unassign">UnAssign</a>
+
+                                 @*
+                                    <a href="https://localhost:7203/Hardware/Index">All Hardware</a>
+                                    <a href="https://localhost:7203/Hardware/Add">Add Hardware</a>
+                                    <a href="https://localhost:7203/Hardware/Assign">Assign</a>
+                                    <a href="https://localhost:7203/Hardware/Unassign">UnAssign</a>*@
+                                   
+                                </div>
+                            </div>
+                            @* <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>*@
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <button class="dropbtn">Asset Detail</button>
+                                <div class="dropdown-content">
+                                    <a href="https://localhost:7203/Admin/Details">All Asset Details</a>
+                                    
+
+                                </div>
+                            </div>
+                            @* <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>*@
+                        </li>
+                        <li class="nav-item">
+                            <div class="dropdown">
+                                <button class="dropbtn" onclick="window.location.href = 'https://localhost:7203/Home/Index';">LogOut</button>
+                                @*<div class="dropdown-content">
+                                    <a href="https://localhost:7203/Home/Index">Log Out</a>*@
+
+
+                                </div>
+                            </div>
+                            @* <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>*@
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+@*
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - AssetManagement - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>*@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

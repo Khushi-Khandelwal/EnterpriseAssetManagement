@@ -1,0 +1,10 @@
+2023-03-15 10:01:33.2152 INFO Book GetAll is logged
+2023-03-15 10:01:47.5863 INFO Software GetAll is logged
+2023-03-15 10:52:19.1571 INFO Book GetAll is logged
+2023-03-15 12:23:49.3633 INFO Book GetAll is logged
+2023-03-15 12:24:06.3119 INFO Software GetAll is logged
+2023-03-15 12:24:13.1342 INFO Software search is logged
+2023-03-15 12:24:14.1234 INFO Software search id is found
+2023-03-15 12:24:21.9542 INFO Software Update is logged
+2023-03-15 12:24:22.3830 INFO Software detail is updated
+2023-03-15 12:24:22.4146 INFO Software GetAll is logged

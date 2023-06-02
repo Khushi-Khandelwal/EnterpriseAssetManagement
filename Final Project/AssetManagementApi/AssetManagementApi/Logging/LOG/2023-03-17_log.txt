@@ -1,0 +1,17 @@
+2023-03-17 09:07:52.6300 INFO Book GetAll is logged
+2023-03-17 09:09:59.3187 INFO Book GetAll is logged
+2023-03-17 09:09:59.3187 INFO Hardware GetAll is logged
+2023-03-17 09:09:59.3187 INFO Hardware GetAll is logged
+2023-03-17 09:12:00.6633 INFO Book GetAll is logged
+2023-03-17 09:23:48.4092 INFO Book Add is logged
+2023-03-17 09:23:51.4098 INFO Book is Added
+2023-03-17 09:23:51.5041 INFO Book GetAll is logged
+2023-03-17 09:28:16.2830 INFO Book Add is logged
+2023-03-17 09:28:18.7539 INFO Book is Added
+2023-03-17 09:28:18.8151 INFO Book GetAll is logged
+2023-03-17 14:59:25.8984 INFO Book GetAll is logged
+2023-03-17 15:09:33.9413 INFO Book GetAll is logged
+2023-03-17 15:10:08.8370 INFO Book search is logged
+2023-03-17 15:10:09.2018 INFO Book search id is found
+2023-03-17 15:11:22.0202 INFO Book Add is logged
+2023-03-17 15:11:22.9139 INFO Book is Added

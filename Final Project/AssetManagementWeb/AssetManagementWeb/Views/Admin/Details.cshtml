@@ -1,0 +1,82 @@
+﻿@model IEnumerable<AssetManagement.UserDTO>
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+@using (Html.BeginForm("Details", "Admin", FormMethod.Post))
+{
+    @Html.DropDownList("Filter", new List<SelectListItem> { new SelectListItem { Text = "Books", Value = "1" }, new SelectListItem { Text = "Software", Value = "2" }, new SelectListItem { Text = "Hardware", Value = "3"} }, "Filter")
+    <input type="submit" />
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                User Name
+            </th>
+            <th>
+                Asset Type
+            </th>
+            <th>
+                Asset Name
+            </th>
+            <th>
+                Phone Number
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                Assign Date
+            </th>
+            <th>
+                UnAssign Date
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+             
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetType)
+              
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetName)
+              
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneNumber)
+              
+            </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Status)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssignDate)
+              
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.UnAssignDate)
+              
+            </td>
+           
+        </tr>
+}
+    </tbody>
+</table>

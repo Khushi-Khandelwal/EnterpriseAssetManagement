@@ -1,0 +1,83 @@
+﻿@model AssetManagement.Models.ListDTO
+
+@{
+    ViewData["Title"] = "test";
+}
+@*
+<h1>test</h1>
+
+<h4>ListDTO</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="test">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Genres" class="control-label"></label>
+                <input asp-for="Genres" class="form-control" />
+                <span asp-validation-for="Genres" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+*@
+
+
+<script>
+    function showDropdown2() {
+        var dropdown1Value = document.getElementById("dropdown1").value;
+        if (dropdown1Value === "book") {
+            document.getElementById("dropdown2").style.display = "block";
+        }
+        else {
+            document.getElementById("dropdown2").style.display = "none";
+        }
+    }
+    function showDropdown3() {
+        var dropdown2Value = document.getElementById("dropdown2").value;
+        if (dropdown2Value === "option1a") {
+            document.getElementById("dropdown3").style.display = "block";
+        }
+        else {
+            document.getElementById("dropdown3").style.display = "none";
+        }
+    }
+</script>
+
+@using (Html.BeginForm("TestResult", "Home", FormMethod.Post))
+{
+    <div>
+        <select id="dropdown1" name="down1" onchange="showDropdown2()">
+            <option value="book">Book</option>
+            <option value="software">Software</option>
+            <option value="hardware">Hardware</option>
+        </select>
+
+        <select id="dropdown2" name="down2" style="display:none;" onchange="showDropdown3()">
+            @* <option value="option1a">Fiction</option>
+        <option value="option1b">Education</option>
+        <option value="option2a">Comedy</option>
+        <option value="option2b">Horror</option>*@
+            @Html.DropDownListFor(model => model.Genres, new SelectList(ViewBag.Genres))
+        </select>
+
+        <select id="dropdown3" name="down3" style="display:none;">
+            <option value="abcd">abcd</option>
+            <option value="defg">defg</option>
+            <option value="asdf">asdf</option>
+            <option value="qwerty">qwerty</option>
+        </select>
+    </div>
+    <div>
+        <button type="submit"> submit </button>
+    </div>
+
+}

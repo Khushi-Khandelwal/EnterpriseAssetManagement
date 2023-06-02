@@ -1,0 +1,82 @@
+﻿@model AssetManagement.UserDTO
+
+@{
+    ViewData["Title"] = "UserPage";
+}
+<style>
+	#bookList {
+		display: none;
+	}
+
+	#softwareList {
+		display: none;
+	}
+
+	#hardwareList {
+		display: none;
+	}
+</style>
+
+@using (Html.BeginForm("UserPage", "User", FormMethod.Post))
+{
+
+	<select id="assetType" name="assetType" onchange="toggleDiv()">
+		<option value="book">Book</option>
+		<option value="software">Software</option>
+		<option value="hardware">Hardware</option>
+	</select>
+
+@*
+	<select id="abc" name="assetType" onchange="toggleDiv()">
+		<option value="aa">Book</option>
+		<option value="bb">Software</option>
+		<option value="cc">Hardware</option>
+	</select>*@
+
+	<div id="bookList">
+		@Html.DropDownListFor(model => model.BookCategory, new SelectList(ViewBag.BookCategory))
+
+	</div>
+
+	<div id="softwareList">
+		@Html.DropDownListFor(model => model.SoftwareCategory, new SelectList(ViewBag.SoftwareCategory))
+
+	</div>
+
+	<div id="hardwareList">
+		@Html.DropDownListFor(model => model.HardwareCategory, new SelectList(ViewBag.HardwareCategory))
+
+	</div>
+
+	<div class="form-group">
+		<input type="submit" value="Submit" class="btn btn-primary" />
+	</div>
+
+}
+
+
+
+<script>
+	function toggleDiv() {
+		var assetType = document.querySelector('select').value;
+
+		var bookList = document.querySelector('#bookList');
+		var softwareList = document.querySelector('#softwareList');
+		var hardwareList = document.querySelector('#hardwareList');
+		if (assetType === 'book') {
+			bookList.style.display = 'block';
+			softwareList.style.display = 'none';
+			hardwareList.style.display = 'none';
+		} else if (assetType === 'software') {
+			bookList.style.display = 'none';
+			softwareList.style.display = 'block';
+			hardwareList.style.display = 'none';
+		} else if (assetType === 'hardware') {
+			bookList.style.display = 'none';
+			hardwareList.style.display = 'block';
+			softwareList.style.display = 'none';
+		}
+
+	}
+
+</script>

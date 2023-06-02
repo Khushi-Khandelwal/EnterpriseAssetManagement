@@ -1,0 +1,60 @@
+﻿@model IEnumerable<AssetManagement.UserDTO>
+
+@{
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+    ViewData["Title"] = "ReturnAsset";
+}
+
+
+@using (Html.BeginForm("ReturnAsset", "User", FormMethod.Post))
+{
+    @Html.DropDownList("Filter", new List<SelectListItem> { new SelectListItem { Text = "Books", Value = "1" }, new SelectListItem { Text = "Software", Value = "2" }, new SelectListItem { Text = "Hardware", Value = "3"} }, "Filter")
+    <input type="submit" />
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               Asset Type
+            </th>
+            <th>
+               Asset Name
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            <th>
+               Assign Date
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssignDate)
+            </td>
+            <td>
+                @Html.ActionLink("Return", "Return", new { item.AssetId , item.UserId }) 
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

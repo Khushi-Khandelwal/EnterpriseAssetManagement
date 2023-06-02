@@ -1,0 +1,68 @@
+﻿@model IEnumerable<AssetManagement.UserDTO>
+
+@{
+    ViewData["Title"] = "Request";
+}
+
+<h1>Request</h1>
+
+
+@using (Html.BeginForm("Request", "Admin", FormMethod.Post))
+{
+    @Html.DropDownList("Filter", new List<SelectListItem> { new SelectListItem { Text = "Books", Value = "1" }, new SelectListItem { Text = "Software", Value = "2" }, new SelectListItem { Text = "Hardware", Value = "3"} }, "Filter")
+    <input type="submit" />
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+              User Name
+            </th>
+            <th>
+              Asset Type
+            </th>
+            <th>
+              Asset Name
+            </th>
+            <th>
+               Phone Number
+            </th>
+            <th>
+              Price
+            </th>
+            <th>
+              Status
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AssetName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PhoneNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                    @Html.ActionLink("Accept", "Accept", new {  item.UserId , item.AssetId }) |
+                    @Html.ActionLink("Reject","Reject", new {  item.UserId , item.AssetId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

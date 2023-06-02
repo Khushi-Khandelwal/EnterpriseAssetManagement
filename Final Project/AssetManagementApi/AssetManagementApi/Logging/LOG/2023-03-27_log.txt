@@ -1,0 +1,65 @@
+2023-03-27 10:52:22.5167 INFO Book GetAll is logged
+2023-03-27 11:32:02.7341 INFO Book Assign is logged
+2023-03-27 11:32:02.7341 INFO Book Assign is logged
+2023-03-27 11:32:10.6535 INFO Book Issued
+2023-03-27 11:32:10.6535 INFO Book Issued
+2023-03-27 14:06:06.6522 INFO Book Assign is logged
+2023-03-27 14:06:07.9395 INFO User Id is not found 
+2023-03-27 14:10:05.8361 INFO Book Assign is logged
+2023-03-27 14:10:07.5863 INFO Book Issued
+2023-03-27 14:15:59.8217 INFO Book Assign is logged
+2023-03-27 14:15:59.8667 INFO Book Issued
+2023-03-27 14:50:49.7951 INFO Book GetAll is logged
+2023-03-27 17:33:35.3394 INFO Book Assign is logged
+2023-03-27 17:33:35.7965 INFO Book Issued
+2023-03-27 17:34:25.4700 INFO Book Assign is logged
+2023-03-27 17:34:25.5375 INFO Book Issued
+2023-03-27 17:34:58.0314 INFO Book Assign is logged
+2023-03-27 17:34:58.0314 INFO Book Issued
+2023-03-27 17:35:09.6419 INFO Book Assign is logged
+2023-03-27 17:35:09.6539 INFO Book Issued
+2023-03-27 17:41:00.4765 INFO Book Assign is logged
+2023-03-27 17:41:00.4966 INFO Book Issued
+2023-03-27 17:41:34.9106 INFO Book Assign is logged
+2023-03-27 17:41:34.9239 INFO Book Issued
+2023-03-27 17:49:52.1641 INFO Book Assign is logged
+2023-03-27 17:49:52.5753 INFO Book Issued
+2023-03-27 17:50:25.4883 INFO Book Assign is logged
+2023-03-27 17:50:25.5146 INFO Book Issued
+2023-03-27 17:50:52.6379 INFO Book Assign is logged
+2023-03-27 17:50:52.6550 INFO Book Issued
+2023-03-27 17:51:29.3074 INFO Book Assign is logged
+2023-03-27 17:51:29.3188 INFO Book Issued
+2023-03-27 17:51:47.3706 INFO Book Assign is logged
+2023-03-27 17:51:47.3840 INFO Book Issued
+2023-03-27 17:54:14.0196 INFO Book Assign is logged
+2023-03-27 17:55:49.9971 INFO Book Issued
+2023-03-27 17:57:55.4252 INFO Book Assign is logged
+2023-03-27 17:58:56.4842 INFO Book Issued
+2023-03-27 18:20:19.7842 INFO Book Assign is logged
+2023-03-27 18:20:20.2775 INFO Book Issued
+2023-03-27 18:20:56.1632 INFO Book Assign is logged
+2023-03-27 18:21:13.0157 INFO Book Issued
+2023-03-27 18:21:42.9499 INFO Book Assign is logged
+2023-03-27 18:21:42.9739 INFO Book Issued
+2023-03-27 18:21:54.2457 INFO Book Assign is logged
+2023-03-27 18:21:54.2685 INFO Book Issued
+2023-03-27 18:47:56.4227 INFO Book GetAll is logged
+2023-03-27 18:48:04.2135 INFO Software GetAll is logged
+2023-03-27 18:48:06.1717 INFO Hardware GetAll is logged
+2023-03-27 18:48:59.6079 INFO Book Assign is logged
+2023-03-27 18:48:59.9685 INFO Book Issued
+2023-03-27 19:45:52.9955 INFO Book Assign is logged
+2023-03-27 19:45:53.4896 INFO Book Issued
+2023-03-27 19:46:40.6630 INFO Book Assign is logged
+2023-03-27 19:46:40.7278 INFO Book Issued
+2023-03-27 21:12:33.4877 INFO Book GetAll is logged
+2023-03-27 21:12:39.2649 INFO Software GetAll is logged
+2023-03-27 21:12:41.2247 INFO Hardware GetAll is logged
+2023-03-27 21:35:32.4807 INFO Book GetAll is logged
+2023-03-27 21:35:38.9059 INFO Software GetAll is logged
+2023-03-27 21:35:40.9554 INFO Hardware GetAll is logged
+2023-03-27 21:39:31.1312 INFO Book Assign is logged
+2023-03-27 21:39:32.4779 INFO Book Issued
+2023-03-27 21:43:37.9850 INFO Book Assign is logged
+2023-03-27 21:43:38.4180 INFO Book Issued

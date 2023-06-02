@@ -1,0 +1,91 @@
+﻿@model IEnumerable<AssetManagement.Models.BookModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+<style>
+    .button
+    {
+        margin-left:5px;
+        border-radius: 5px;
+    }
+    .button a
+    {
+        text-decoration:none;
+        color:white;
+        
+    }
+    .editButton{
+        background-color:blue;
+        
+   }
+    .editButton:hover{
+        background-color:deepskyblue;
+   }
+    .deleteButton{
+        background-color:red;
+   }
+    .deleteButton:hover{
+        background-color: maroon;
+   }
+</style>
+<table class="table">
+    <thead>
+        <tr>
+           @* <th>
+                @Html.DisplayNameFor(model => model.BookId)
+            </th>*@
+            <th>
+                Name
+            </th>
+            <th>
+               Author
+            </th>
+            <th>
+               Publishing Date
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+           @* <td>
+                @Html.DisplayFor(modelItem => item.BookId)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.BookName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AuthorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfPublishing)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Genre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                <button class="editButton button">
+                        @Html.ActionLink("Edit", "Edit", new {  id=item.BookId  }) 
+                </button>
+             
+                    <button class="deleteButton button">
+                             @Html.ActionLink("Delete", "Delete", new {id=item.BookId })
+                    </button>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

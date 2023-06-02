@@ -1,0 +1,36 @@
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

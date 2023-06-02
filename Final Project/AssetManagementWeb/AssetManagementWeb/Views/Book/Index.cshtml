@@ -1,0 +1,103 @@
+﻿@model IEnumerable<AssetManagementWeb.Models.AssetModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<style>
+    .button {
+        margin-left: 5px;
+        border-radius: 5px;
+    }
+
+        .button a {
+            text-decoration: none;
+            color: white;
+        }
+
+    .editButton {
+        background-color: blue;
+    }
+
+        .editButton:hover {
+            background-color: deepskyblue;
+        }
+
+    .deleteButton {
+        background-color: red;
+    }
+
+        .deleteButton:hover {
+            background-color: maroon;
+        }
+</style>
+<table class="table">
+    <thead>
+        <tr>
+           @* <th>
+                @Html.DisplayNameFor(model => model.AssetId)
+            </th>*@
+            <th>
+                Name
+               @* @Html.DisplayNameFor(model => model.Name)*@
+            </th>
+            <th>
+                Author
+               @* @Html.DisplayNameFor(model => model.Source)*@
+            </th>
+            <th>
+                Publish Date
+              @*  @Html.DisplayNameFor(model => model.Date)*@
+            </th>
+            <th>
+                Genre
+               @* @Html.DisplayNameFor(model => model.Type)*@
+            </th>
+            <th>
+                Quantity
+               @* @Html.DisplayNameFor(model => model.Quantity)*@
+            </th>
+            <th>
+                Price
+               @* @Html.DisplayNameFor(model => model.Price)*@
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+          @*  <td>
+                @Html.DisplayFor(modelItem => item.AssetId)
+            </td>*@
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Source)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+             <td>
+                <button class="editButton button">
+                        @Html.ActionLink("Edit", "Edit", new {  id=item.AssetId  }) 
+                </button>
+             
+                    <button class="deleteButton button">
+                             @Html.ActionLink("Delete", "Delete", new {id=item.AssetId })
+                    </button>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

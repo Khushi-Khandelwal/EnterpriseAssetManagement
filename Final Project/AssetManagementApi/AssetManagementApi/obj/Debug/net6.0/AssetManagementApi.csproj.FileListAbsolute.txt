@@ -1,0 +1,282 @@
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\nlog.config
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\appsettings.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.exe
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.deps.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.runtimeconfig.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.pdb
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\NLog.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.csproj.AssemblyReference.cache
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.AssemblyInfoInputs.cache
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.AssemblyInfo.cs
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.csproj.CoreCompileInputs.cache
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets\msbuild.AssetManagementApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AssetManagementApi.props
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AssetManagementApi.props
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AssetManagementApi.props
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\scopedcss\bundle\AssetManagementApi.styles.css
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.csproj.CopyComplete
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\refint\AssetManagementApi.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.pdb
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.genruntimeconfig.cache
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\ref\AssetManagementApi.dll
+C:\Users\harshit.k.sevkani\source\repos\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\nlog.config
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\appsettings.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.exe
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.deps.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.runtimeconfig.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.pdb
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\NLog.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.csproj.AssemblyReference.cache
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.AssemblyInfoInputs.cache
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.AssemblyInfo.cs
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.csproj.CoreCompileInputs.cache
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets\msbuild.AssetManagementApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AssetManagementApi.props
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AssetManagementApi.props
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AssetManagementApi.props
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\scopedcss\bundle\AssetManagementApi.styles.css
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.csproj.CopyComplete
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\refint\AssetManagementApi.dll
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.pdb
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.genruntimeconfig.cache
+C:\Users\harshit.k.sevkani\Desktop\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\ref\AssetManagementApi.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\nlog.config
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\appsettings.Development.json
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\appsettings.json
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.exe
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.deps.json
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.runtimeconfig.json
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\AssetManagementApi.pdb
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Azure.Core.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Humanizer.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\NLog.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.CodeDom.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Text.Json.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.csproj.AssemblyReference.cache
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.AssemblyInfoInputs.cache
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.AssemblyInfo.cs
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.csproj.CoreCompileInputs.cache
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets\msbuild.AssetManagementApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets\msbuild.build.AssetManagementApi.props
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AssetManagementApi.props
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AssetManagementApi.props
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\scopedcss\bundle\AssetManagementApi.styles.css
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.csproj.CopyComplete
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\refint\AssetManagementApi.dll
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.pdb
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\AssetManagementApi.genruntimeconfig.cache
+D:\Asset Management System\Moodle_Week8\AssetManagementApi\AssetManagementApi\obj\Debug\net6.0\ref\AssetManagementApi.dll

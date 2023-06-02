@@ -1,0 +1,32 @@
+2023-03-30 13:07:54.4385 INFO Book Add is logged
+2023-03-30 13:07:57.0690 INFO Book is Added
+2023-03-30 13:08:05.9736 INFO Book GetAll is logged
+2023-03-30 13:19:37.6350 INFO Software GetAll is logged
+2023-03-30 13:19:41.2863 INFO Hardware GetAll is logged
+2023-03-30 13:20:07.5048 INFO Software Add is logged
+2023-03-30 13:20:07.9124 INFO Software is Added
+2023-03-30 13:20:07.9379 INFO Software GetAll is logged
+2023-03-30 13:20:14.2752 INFO Software search is logged
+2023-03-30 13:20:14.2927 INFO Software search id is found
+2023-03-30 13:20:18.7408 INFO Software Update is logged
+2023-03-30 13:20:18.7821 INFO Software detail is updated
+2023-03-30 13:20:18.7913 INFO Software GetAll is logged
+2023-03-30 13:20:22.3907 INFO Software delete is logged
+2023-03-30 13:20:22.4593 INFO Software is deleted
+2023-03-30 13:20:22.4721 INFO Software GetAll is logged
+2023-03-30 13:20:37.6567 INFO Hardware Add is logged
+2023-03-30 13:20:37.6714 INFO Hardware is Added
+2023-03-30 13:20:37.6839 INFO Hardware GetAll is logged
+2023-03-30 13:20:39.4989 INFO Hardware delete is logged
+2023-03-30 13:20:39.5147 INFO Hardware is deleted
+2023-03-30 13:20:39.5257 INFO Hardware GetAll is logged
+2023-03-30 13:20:41.6050 INFO Hardware search is logged
+2023-03-30 13:20:41.6050 INFO Hardware search id is found
+2023-03-30 13:20:45.5768 INFO Hardware Update is logged
+2023-03-30 13:20:45.5962 INFO Hardware detail is updated
+2023-03-30 13:20:45.6084 INFO Hardware GetAll is logged
+2023-03-30 13:25:49.8123 INFO Book Assign is logged
+2023-03-30 13:25:50.0009 INFO Book Issued
+2023-03-30 14:07:33.0190 INFO Book GetAll is logged
+2023-03-30 14:07:49.6465 INFO Book Add is logged
+2023-03-30 14:07:50.2213 INFO Book is Added
