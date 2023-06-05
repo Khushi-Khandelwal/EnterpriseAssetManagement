@@ -32,7 +32,7 @@ To get started with the Enterprise Asset Management project, follow these steps:
 
 6. **Access the Application:** Open your web browser and navigate to `http://localhost:3000` to access the Enterprise Asset Management system.
 
-For detailed documentation and API reference, please refer to the [Wiki](https://github.com/yourusername/yourproject/wiki) section of this repository.
+For detailed documentation and API reference, please refer to the [Wiki](https://github.com/Khushi-Khandelwal/EnterpriseAssetManagement) section of this repository.
 
 
 ## Demo
@@ -43,7 +43,6 @@ For detailed documentation and API reference, please refer to the [Wiki](https:/
 <img width="960" alt="image" src="https://github.com/Khushi-Khandelwal/EnterpriseAssetManagement/blob/main/Final%20Project/5.PNG">
 <img width="960" alt="image" src="https://github.com/Khushi-Khandelwal/EnterpriseAssetManagement/blob/main/Final%20Project/6.PNG">
 <img width="960" alt="image" src="https://github.com/Khushi-Khandelwal/EnterpriseAssetManagement/blob/main/Final%20Project/7.PNG">
-<img width="960" alt="image" src="https://github.com/Khushi-Khandelwal/EnterpriseAssetManagement/blob/main/Final%20Project/8.PNG">
 <img width="960" alt="image" src="https://github.com/Khushi-Khandelwal/EnterpriseAssetManagement/blob/main/Final%20Project/9.PNG">
 <img width="960" alt="image" src="https://github.com/Khushi-Khandelwal/EnterpriseAssetManagement/blob/main/Final%20Project/10.PNG">
 <img width="960" alt="image" src="https://github.com/Khushi-Khandelwal/EnterpriseAssetManagement/blob/main/Final%20Project/11.PNG">
@@ -83,7 +82,7 @@ For detailed documentation and API reference, please refer to the [Wiki](https:/
 
 - Name: Khushi Khandelwal
 - Roll: 19ESKIT043
-- Branch: IT-B (G2)
+- Branch: IT-A (G2)
 - Role: Backend Developer (.Net,C#)
 
 ## Contributing
